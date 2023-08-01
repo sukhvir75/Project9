@@ -4,6 +4,7 @@ public class Class9 {
 	public static void main(String args []){
 		System.out.println("Hello..");
 		System.out.println("Hello..");
+		System.out.println("test 1234..");
 
    }
 	//add method
@@ -23,4 +24,11 @@ public class Class9 {
 		
 		System.out.println(a-b);
  }
+public static void add(int a,int b,int c) {
+		
+		System.out.println(a+b+c);
+  }
+public static void getData() {
+	System.out.println("Data...");
+}
 }
