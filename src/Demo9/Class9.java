@@ -22,4 +22,5 @@ public class Class9 {
 	public static void multiply(int a,int b) {
 		
 		System.out.println(a-b);
+ }
 }
